@@ -7,9 +7,6 @@ int abc = 'tekst';
 ```
 
 ## podtytuł
-
 asd
-
 ## cos
-
 asd
